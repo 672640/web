@@ -6,7 +6,7 @@ export default function Header() {
     <AppBar position="static" color="success" sx={{backgroundColor:"#444",}}>
       <Toolbar>
         <Typography variant="h6" noWrap>
-          Daily
+          Hallo
         </Typography>
       </Toolbar>
     </AppBar>
