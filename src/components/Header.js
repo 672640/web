@@ -3,7 +3,7 @@ import { AppBar, Toolbar, Typography } from "@mui/material";
 
 export default function Header() {
   return (
-    <AppBar position="static">
+    <AppBar position="static" color="success" sx={{backgroundColor:"#444",}}>
       <Toolbar>
         <Typography variant="h6" noWrap>
           Daily
