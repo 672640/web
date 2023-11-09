@@ -12,7 +12,7 @@ const theme = createTheme();
 root.render(
   <ThemeProvider theme={theme}>
     <CssBaseline />
-    <Box sx={{backgroundColor:"#255", minHeight: "100vh"}}>
+    <Box sx={{backgroundColor:"#252", minHeight: "100vh"}}>
     <App/>
     </Box>
   </ThemeProvider>

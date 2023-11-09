@@ -27,7 +27,6 @@ export default function DailyQuote() {
           <Typography>
             {quoteData?.author}
           </Typography>
-          
         </Stack>
       </CardContent>
     </Card>

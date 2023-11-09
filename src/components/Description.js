@@ -10,7 +10,7 @@ const Description = () => {
   return (
     <Box sx={{ my: 4 }}>
       <Typography variant="h5" component="h2" gutterBottom>
-        En ny dag, en ny mulighet
+        Life.
       </Typography>
       <Switch value={checked} onChange={(e) => setChecked(e.target.checked)}/>
       <Typography variant="body1">{descriptionText}</Typography>

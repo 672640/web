@@ -33,6 +33,7 @@ const WeatherWidget = () => {
     <Card>
       <CardContent>
         <Stack direction="column" spacing={1}>
+          
           <Typography color="textSecondary" gutterBottom>
             Værvarsel for
           </Typography>
